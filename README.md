@@ -1,5 +1,6 @@
 # email_finder
 ## Input:
+### All input variables can be found under main.
 ### email_list: list of email addresses to search emails
 ### folder_list: list of folders to search emails, the tool will search these folders per email address
 ### kw_list.csv: csv file containing information on the emails to be searched.
